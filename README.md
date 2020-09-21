@@ -1,2 +1,2 @@
 # Assignment-1---Excel-Homework
-Submitting first assignment
+Organize and Analyze a database of Kickstarter 4,000 past projects in order to uncover any hidden trends.
